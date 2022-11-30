@@ -2,7 +2,6 @@
 categories = ["TIL"]
 date = 2022-09-01T07:00:00Z
 description = "test description"
-draft = true
 image = "/images/sphinx-logo.png"
 tags = ["django", "python", "sphinx"]
 title = "Make Sphinx Work With Django Project"
