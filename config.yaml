@@ -1,5 +1,5 @@
 ---
-baseURL: "/blog"
+baseURL: "/"
 languageCode: en-us
 title: Wooster Technical Solutions Blog
 module:
